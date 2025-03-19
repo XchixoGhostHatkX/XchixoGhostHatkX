@@ -1,3 +1,4 @@
+<img src="https://drive.google.com/uc?export=view&id=1FaISTCVh83D5_DGGmSNjxp4gHlKPddI_" alt="My Image" title="Portrait" style="width: 100%; max-width: 600px; display: block; margin: auto;">
 
 # XchixoGhostHatkX Portfolio Repository
 
@@ -12,6 +13,7 @@ It provides all the necessary details for collaborators, recruiters, or anyone i
 
 
 I’m **@XchixoGhostHatkX**, a passionate and versatile professional with a wide range of interests and skills.
+
 
 ## 👀 Interests
 
@@ -37,7 +39,6 @@ I am **He**.
 
 I'm a **Geek** 😎, always excited about exploring new technologies and solving complex problems.
 
----
 
 
 ## 📖 **Overview**
@@ -46,7 +47,6 @@ This repository serves as a comprehensive resume and portfolio.
 It highlights my expertise in software development, cybersecurity, and DevOps. 
 Here, you'll find detailed descriptions of my projects, technical skills, and professional achievements.
 
----
 
 ## 📋 **Table of Contents**
 
