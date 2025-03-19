@@ -1,18 +1,44 @@
-- 👋 Hi, I’m @XchixoGhostHatkX
-- 👀 I’m interested in ...All
-- 🌱 I’m currently learning ...All
-- 💞️ I’m looking to collaborate on ...All
-- 📫 How to reach me ... Email: godofnoor@protonmail.com ✅
-- 😄 Pronouns: ...I am He
-- ⚡ Fun fact: ... I'm a Geek 😎
 
 # XchixoGhostHatkX Portfolio Repository
 
-Welcome to my professional portfolio repository! 
+Hello World! Welcome to my professional portfolio repository! 
 This README is designed to showcase my skills, projects, and contributions in a clear and structured manner. 
 It provides all the necessary details for collaborators, recruiters, or anyone interested in my work.
 
+
+# About Me
+
+## 👋 Introduction
+
+
+I’m **@XchixoGhostHatkX**, a passionate and versatile professional with a wide range of interests and skills.
+
+## 👀 Interests
+
+I am interested in **all aspects of technology**, from software development and cybersecurity to data science and artificial intelligence. My curiosity drives me to explore new domains and stay updated with the latest trends.
+
+## 🌱 Current Learning
+
+I am currently learning **a variety of subjects**, including advanced cybersecurity techniques, cloud computing, and machine learning applications. Continuous learning is essential for me to stay ahead in the tech industry.
+
+## 💞️ Collaboration Opportunities
+
+I am looking to collaborate on **all types of projects** that involve innovation, problem-solving, and teamwork. Whether it's developing new software, enhancing cybersecurity systems, or contributing to open-source initiatives, I am eager to collaborate with like-minded individuals.
+
+## 📫 Contact Information
+
+To reach me, you can send an email to **[godofnoor@protonmail.com](mailto:godofnoor@protonmail.com)**. I look forward to connecting with you!
+
+## 😄 Pronouns
+
+I am **He**.
+
+## ⚡ Fun Fact
+
+I'm a **Geek** 😎, always excited about exploring new technologies and solving complex problems.
+
 ---
+
 
 ## 📖 **Overview**
 
@@ -133,6 +159,7 @@ Feel free to reach out for collaboration or inquiries:
 ---
 
 Thank you for visiting my portfolio repository! 🚀
+I hope to collaborate with you soon. 🚀
 
 <!---
 XchixoGhostHatkX/XchixoGhostHatkX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
