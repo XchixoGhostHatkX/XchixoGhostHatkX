@@ -1,4 +1,4 @@
-![Screenshot_20250303-040735_1 (1)](https://github.com/user-attachments/assets/57386239-ecde-4577-b548-cccc0cd6f731)
+![MyPotrait](https://github.com/user-attachments/assets/57386239-ecde-4577-b548-cccc0cd6f731)
 
 # XchixoGhostHatkX Portfolio Repository
 
