@@ -1,6 +1,7 @@
-<img src="https://drive.google.com/uc?export=view&id=1FaISTCVh83D5_DGGmSNjxp4gHlKPddI_" alt="MyImage" title="Portrait" style="width: 100%; max-width: 600px; display: block; margin: auto;">
+![Screenshot_20250303-040735_1 (1)](https://github.com/user-attachments/assets/57386239-ecde-4577-b548-cccc0cd6f731)
 
 # XchixoGhostHatkX Portfolio Repository
+
 
 Hello World! Welcome to my professional portfolio repository! 
 This README is designed to showcase my skills, projects, and contributions in a clear and structured manner. 
