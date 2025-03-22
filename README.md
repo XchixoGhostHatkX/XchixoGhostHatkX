@@ -129,7 +129,8 @@ If you have an exciting project in mind, I would love to hear from you!
 
 ## 🎉 Fun Fact
 
-I'm a passionate tech enthusiast who enjoys solving complex problems with a blend of creativity and analytical thinking. Outside of coding, I love exploring new cultures, playing chess, and staying updated with the latest advancements in technology!
+I'm a passionate tech enthusiast who enjoys solving complex problems with a blend of creativity and analytical thinking.
+Outside of Coding, I love new Computers💻, Exploring new Places🗺️, Bug hunting🐞, Research👨‍💻, Gimming🏋️‍♀️, Studies📖, playing Chess♟️, and staying updated with the latest advancements in technology!
 
 ---
 
