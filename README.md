@@ -1,168 +1,142 @@
 ![MyPotrait](https://github.com/user-attachments/assets/57386239-ecde-4577-b548-cccc0cd6f731)
 
-# XchixoGhostHatkX Portfolio Repository
-
-
 Hello World! Welcome to my professional portfolio repository! 
 This README is designed to showcase my skills, projects, and contributions in a clear and structured manner. 
 It provides all the necessary details for collaborators, recruiters, or anyone interested in my work.
 
+# 👨‍💻 Irmiya Malgwi (XchixoGhostHatkX)
 
-# About Me
+![Header](https://via.placeholder.com/1200x300?text=Welcome+to+Irmiya+Malgwi's+GitHub+Profile)
 
-## 👋 Introduction
+## 🌟 About Me
 
+Hello! I’m **Irmiya Malgwi**, also known as **XchixoGhostHatkX** (he/him). I am a highly versatile and passionate technology professional with a diverse skillset encompassing:
 
-I’m **@XchixoGhostHatkX**, a passionate and versatile professional with a wide range of interests and skills.
+- **Full-Stack Web & Mobile Development:** Crafting responsive, user-friendly applications with modern frameworks.
+- **Cybersecurity & Ethical Hacking:** Securing digital assets, performing penetration testing, and identifying vulnerabilities.
+- **Python Development:** Building robust applications, scripts, and automation tools.
+- **Artificial Intelligence & Machine Learning:** Developing intelligent systems, implementing machine learning models, and analyzing data.
+- **Cloud Computing & DevOps:** Deploying and managing scalable applications in cloud environments using DevOps principles.
+- **Bug Bounty Hunting:** Actively participating in bug bounty programs to enhance software security.
 
-
-## 👀 Interests
-
-I am interested in **all aspects of technology**, from software development and cybersecurity to data science and artificial intelligence. My curiosity drives me to explore new domains and stay updated with the latest trends.
-
-## 🌱 Current Learning
-
-I am currently learning **a variety of subjects**, including advanced cybersecurity techniques, cloud computing, and machine learning applications. Continuous learning is essential for me to stay ahead in the tech industry.
-
-## 💞️ Collaboration Opportunities
-
-I am looking to collaborate on **all types of projects** that involve innovation, problem-solving, and teamwork. Whether it's developing new software, enhancing cybersecurity systems, or contributing to open-source initiatives, I am eager to collaborate with like-minded individuals.
-
-## 📫 Contact Information
-
-To reach me, you can send an email to **[godofnoor@protonmail.com](mailto:godofnoor@protonmail.com)**. I look forward to connecting with you!
-
-## 😄 Pronouns
-
-I am **He**.
-
-## ⚡ Fun Fact
-
-I'm a **Geek** 😎, always excited about exploring new technologies and solving complex problems.
-
-
-
-## 📖 **Overview**
-
-This repository serves as a comprehensive resume and portfolio. 
-It highlights my expertise in software development, cybersecurity, and DevOps. 
-Here, you'll find detailed descriptions of my projects, technical skills, and professional achievements.
-
-
-## 📋 **Table of Contents**
-
-- [Overview](#overview)
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Projects](#projects)
-- [Tech Stack](#tech-stack)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+🎓 **Education**: B.Sc. Cyber Security (Deferred)
+🌍 **Identity**: Proudly African
+📍 **Location**: WizeTechx, Africa
 
 ---
 
-## ✨ **Features**
+## 💼 Professional Experience
 
-- A curated list of professional projects with descriptions and links.
-- Documentation for easy navigation and understanding.
-- Highlights of technical skills and tools I specialize in.
-- Contribution guidelines for collaborators.
+While completing my B.Sc. in Cyber Security, I have gained hands-on experience through various projects and freelance opportunities. My focus has been on developing practical solutions and contributing to the open-source community.
 
----
-
-## 🚀 **Getting Started**
-
-### Prerequisites
-
-To access this repository locally, ensure you have the following:
-
-- **Git**: For cloning the repository.
-- **Markdown Viewer**: To view `.md` files in a formatted way (optional).
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/XchixoGhostHatkX/XchixoGhostHatkX.git
-   ```
-2. Navigate to the directory:
-   ```bash
-   cd XchixoGhostHatkX
-   ```
-3. Open the `README.md` file in any Markdown viewer or text editor.
+- **Freelance Web Developer:** Designed and implemented responsive websites for local businesses, focusing on user experience and accessibility.
+- **Cybersecurity Intern:** Assisted in vulnerability assessments, penetration testing, and security audits for small to medium-sized enterprises.
+- **Open-Source Contributor:** Actively contributed to open-source projects related to cybersecurity and web development, enhancing my skills and collaborating with other developers.
 
 ---
 
-## 🛠️ **Projects**
+## 🏆 Achievements
 
-Here are some of my highlighted projects:
-
-| Project Name       | Description                                                                 | Repository Link                                                                 |
-|--------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| **PyBannerGenie**  | A Python tool for creating custom banners with export options.             | [PyBannerGenie](https://github.com/XchixoGhostHatkX/PyBannerGenie)             |
-| **WizeTechx**      | Educational content on cybersecurity, pentesting, and programming guides.  | [WizeTechx](https://github.com/XchixoGhostHatkX/WizeTechx)                     |
-
-For a full list of projects, visit my GitHub profile: [XchixoGhostHatkX](https://github.com/XchixoGhostHatkX).
+- **Pull Shark Award** 🦈
+- Successfully identified and reported vulnerabilities through bug bounty programs.
+- Built and deployed multiple personal projects showcased on GitHub.
+- Active participation in cybersecurity workshops and training programs.
 
 ---
 
-## 💻 **Tech Stack**
+## 🔧 Tech Stack
 
-The technologies I work with include:
+### Programming Languages:
 
-- **Programming Languages**: Python, JavaScript, HTML, CSS
-- **Frameworks**: Django, Flask, React.js
-- **Cybersecurity Tools**: Kali Linux, Burp Suite, Metasploit Framework
-- **DevOps Tools**: Docker, Kubernetes, GitHub Actions
+- Python | JavaScript | HTML | CSS | Bash | SQL
 
----
+### Frameworks & Libraries:
 
-## 🤝 **Contributing**
+- Django | Flask | React.js | Node.js | TensorFlow | PyTorch | Bootstrap | jQuery
 
-I welcome contributions to my open-source projects! To contribute:
+### Cybersecurity Tools:
 
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add your message here"
-   ```
-4. Push to your branch:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-5. Submit a pull request.
+- Kali Linux | Burp Suite | Metasploit Framework | Nmap | Wireshark | OWASP ZAP | John the Ripper
 
-Please read the `CONTRIBUTING.md` file (if available) for more details.
+### Cloud & DevOps:
+
+- Docker | Kubernetes | GitHub Actions | AWS (EC2, S3, Lambda) | Azure (Virtual Machines, Azure Functions) | CI/CD Pipelines
+
+### Databases:
+
+- MySQL | PostgreSQL | MongoDB | SQLite
+
+### Other Tools:
+
+- Git | VS Code | Linux Terminal | Postman
 
 ---
 
-## 📜 **License**
+## 🚀 Projects
 
-This repository is licensed under the MIT License. 
-See the `LICENSE.md` file for more details.
+Here are some of my highlighted projects that showcase my skills:
+
+| Project Name           | Description                                                                                                                      | Repository Link                                                              |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| **PyBannerGenie**      | A Python tool for creating high-quality custom banners with export options, designed for social media and marketing materials.      | [PyBannerGenie](https://github.com/XchixoGhostHatkX/PyBannerGenie)          |
+| **WizeTechx**          | A platform dedicated to providing educational content on cybersecurity, ethical hacking, and programming guides.                   | [WizeTechx](https://github.com/XchixoGhostHatkX/WizeTechx)              |
+| **AI-Powered Chatbot** | An intelligent chatbot built using Python and NLP libraries (like NLTK and SpaCy) to provide seamless and context-aware user interaction. | [Private - Contact me for details]                                             |
+| **Personal Portfolio Website** | A dynamic and responsive portfolio website built with React.js, showcasing my projects, skills, and professional experience.       | [Private - Contact me for details]                                             |
+
+For a full list of projects, visit my [GitHub Repositories](https://github.com/XchixoGhostHatkX).
 
 ---
 
-## 📬 **Contact**
+## 📊 GitHub Stats
 
-Feel free to reach out for collaboration or inquiries:
-
-- GitHub Profile: [XchixoGhostHatkX](https://github.com/XchixoGhostHatkX)  
-- Email: godofnoor@protonmail.com 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XchixoGhostHatkX&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XchixoGhostHatkX&layout=compact&theme=radical)
 
 ---
 
-Thank you for visiting my portfolio repository! 🚀
-I hope to collaborate with you soon. 🚀
+## 🌱 Currently Learning
 
-<!---
-XchixoGhostHatkX/XchixoGhostHatkX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am continuously expanding my knowledge in the following areas:
+
+- **Advanced Cybersecurity:** Deepening my understanding of network security, cryptography, and threat intelligence.
+- **Machine Learning Applications:** Exploring advanced techniques in deep learning, neural networks, and predictive modeling.
+- **Cloud-Native Development:** Mastering cloud technologies such as serverless computing, microservices architecture, and container orchestration.
+- **Blockchain Technology:** Investigating blockchain applications and smart contract development.
+
+---
+
+## 🤝 Collaboration Opportunities
+
+I am actively seeking opportunities to collaborate on challenging and impactful projects. I am particularly interested in:
+
+- Developing innovative software solutions.
+- Enhancing cybersecurity infrastructure.
+- Contributing to open-source initiatives that address real-world problems.
+- Creating AI-driven applications.
+
+If you have an exciting project in mind, I would love to hear from you!
+
+---
+
+## 📬 Contact Me
+
+🌐 LinkedIn: [Irmiya Malgwi](https://www.linkedin.com/in/irmiya-malgwi-a34a57148)
+📧 Email: [Email DM](mailto:godofnoor@protonmail.com)
+🌍 Portfolio: [GitHub Repo](https://github.com/XchixoGhostHatkX)
+📱 WhatsApp: [Request Here](mailto:godofnoor@protonmail.com)
+
+---
+
+## 🎉 Fun Fact
+
+I'm a passionate tech enthusiast who enjoys solving complex problems with a blend of creativity and analytical thinking. Outside of coding, I love exploring new cultures, playing chess, and staying updated with the latest advancements in technology!
+
+---
+
+## 📜 License
+
+This repository is licensed under the MIT License. See the LICENSE.md file for details.
+
+---
+
+Thank you for visiting my profile! 🚀 Let's connect, collaborate, and build the future together!
