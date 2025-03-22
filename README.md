@@ -27,7 +27,7 @@ Hello! I’m **Irmiya Malgwi**, also known as **XchixoGhostHatkX** (he/him). I a
 
 ## 💼 Professional Experience
 
-While completing My B.Sc. in Cyber Security, I have gained hands-on experience through various projects and freelance opportunities. My focus has been on developing practical solutions and contributing to the open-source community.
+While yet to complete My B.Sc. in Cyber Security, I have gained hands-on experience through various projects and freelance opportunities. My focus has been on developing practical solutions and contributing to the open-source community.
 
 - **Freelance Web Developer:** Designed and implemented responsive websites for local businesses, focusing on user experience and accessibility.
 - **Cybersecurity Intern:** Assisted in vulnerability assessments, penetration testing, and security audits for small to medium-sized enterprises.
