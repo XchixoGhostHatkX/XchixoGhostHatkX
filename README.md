@@ -1,7 +1,7 @@
 ![MyPotrait](https://github.com/user-attachments/assets/57386239-ecde-4577-b548-cccc0cd6f731)
 
 Hello World! Welcome to My professional portfolio repository!.
-This README is designed to showcase My skills, projects, and contributions in a clear and structured manner
+This Overview is designed to showcase My skills, projects, and contributions in a clear and structured manner
 It provides all the necessary details for collaborators, recruiters, or anyone interested in My work.
 
 # 👨‍💻 Irmiya Malgwi (XchixoGhostHatkX)
