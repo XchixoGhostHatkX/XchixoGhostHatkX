@@ -27,11 +27,11 @@ Hello! I’m **Irmiya Malgwi**, also known as **XchixoGhostHatkX** (he/him). I a
 
 ## 💼 Professional Experience
 
-While completing my B.Sc. in Cyber Security, I have gained hands-on experience through various projects and freelance opportunities. My focus has been on developing practical solutions and contributing to the open-source community.
+While completing My B.Sc. in Cyber Security, I have gained hands-on experience through various projects and freelance opportunities. My focus has been on developing practical solutions and contributing to the open-source community.
 
 - **Freelance Web Developer:** Designed and implemented responsive websites for local businesses, focusing on user experience and accessibility.
 - **Cybersecurity Intern:** Assisted in vulnerability assessments, penetration testing, and security audits for small to medium-sized enterprises.
-- **Open-Source Contributor:** Actively contributed to open-source projects related to cybersecurity and web development, enhancing my skills and collaborating with other developers.
+- **Open-Source Contributor:** Actively contributed to open-source projects related to cybersecurity and web development, enhancing My skills and collaborating with other developers.
 
 ---
 
@@ -74,16 +74,16 @@ While completing my B.Sc. in Cyber Security, I have gained hands-on experience t
 
 ## 🚀 Projects
 
-Here are some of my highlighted projects that showcase my skills:
+Here are some of My highlighted projects that showcase My skills:
 
 | Project Name           | Description                                                                                                                      | Repository Link                                                              |
 | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | **PyBannerGenie**      | A Python tool for creating high-quality custom banners with export options, designed for social media and marketing materials.      | [PyBannerGenie](https://github.com/XchixoGhostHatkX/PyBannerGenie)          |
 | **WizeTechx**          | A platform dedicated to providing educational content on cybersecurity, ethical hacking, and programming guides.                   | [WizeTechx](https://github.com/XchixoGhostHatkX/WizeTechx)              |
 | **AI-Powered Chatbot** | An intelligent chatbot built using Python and NLP libraries (like NLTK and SpaCy) to provide seamless and context-aware user interaction. | [Private - Contact me for details]                                             |
-| **Personal Portfolio Website** | A dynamic and responsive portfolio website built with React.js, showcasing my projects, skills, and professional experience.       | [Private - Contact me for details]                                             |
+| **Personal Portfolio Website** | A dynamic and responsive portfolio website built with React.js, showcasing My projects, skills, and professional experience.       | [Private - Contact me for details]                                             |
 
-For a full list of projects, visit my [GitHub Repositories](https://github.com/XchixoGhostHatkX).
+For a full list of projects, visit My [GitHub Repositories](https://github.com/XchixoGhostHatkX).
 
 ---
 
@@ -96,9 +96,9 @@ For a full list of projects, visit my [GitHub Repositories](https://github.com/X
 
 ## 🌱 Currently Learning
 
-I am continuously expanding my knowledge in the following areas:
+I am continuously expanding My knowledge in the following areas:
 
-- **Advanced Cybersecurity:** Deepening my understanding of network security, cryptography, and threat intelligence.
+- **Advanced Cybersecurity:** Deepening My understanding of network security, cryptography, and threat intelligence.
 - **Machine Learning Applications:** Exploring advanced techniques in deep learning, neural networks, and predictive modeling.
 - **Cloud-Native Development:** Mastering cloud technologies such as serverless computing, microservices architecture, and container orchestration.
 - **Blockchain Technology:** Investigating blockchain applications and smart contract development.
@@ -139,4 +139,4 @@ This repository is licensed under the MIT License. See the LICENSE.md file for d
 
 ---
 
-Thank you for visiting my profile! 🚀 Let's connect, collaborate, and build the future together!
+Thank you for visiting My profile! 🚀 Let's connect, collaborate, and build the future together!
