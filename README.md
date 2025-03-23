@@ -128,9 +128,11 @@ For a full list of projects, visit My [GitHub Repositories](https://github.com/X
 
 ## 🗣️ Recommendations
 
-> "Irmiya is a highly skilled and dedicated professional. His expertise in cybersecurity and web development is exceptional. He consistently delivers high-quality work and is a valuable asset to any team." - **Mr. James Danjuma, Developer  @Crypt Income **
+> "Irmiya is a highly skilled and dedicated professional. His expertise in cybersecurity and web development is exceptional. He consistently delivers high-quality work and is a valuable asset to any team." - **Mr. James Danjuma, Developer  @Crypt Income ** 
 
-> "I had the pleasure of working with Irmiya on a web development project. His technical skills and attention to detail were outstanding. He is a reliable and proactive team player." - **ThankGod Malgwi, Data Scientist **
+
+> "I had the pleasure of working with Irmiya on a web development project. His technical skills and attention to detail were outstanding. He is a reliable and proactive team player." - **ThankGod Malgwi, Data Scientist ** 
+
 
 ## 📊 GitHub Stats
 
