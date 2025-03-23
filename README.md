@@ -27,6 +27,8 @@ Hello! I’m **Irmiya Malgwi**, also known as **XchixoGhostHatkX** (he/him). I a
 - **Cloud Computing & DevOps:** Deploying and managing scalable applications in cloud environments using DevOps principles.
 - **Bug Bounty Hunting:** Actively participating in bug bounty programs to enhance software security.
 
+I am driven by a passion for innovation and a commitment to excellence in all My endeavors. My goal is to leverage technology to solve complex problems and create meaningful impact.
+
 🎓 **Education**: B.Sc. Cyber Security (Deferred)
 🌍 **Identity**: Proudly African
 📍 **Location**: WizeTechx, Africa
