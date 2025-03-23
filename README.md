@@ -5,10 +5,11 @@
 Hello World! Welcome to My professional portfolio repository!.
 This Overview is designed to showcase My skills, projects, and contributions in a clear and structured manner
 It provides all the necessary details for collaborators, recruiters, or anyone interested in My work.
+---
 
 # 👨‍💻 Irmiya Malgwi (XchixoGhostHatkX)
 
-<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=XchixoGhostHatkX">
+<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=XchixoGhostHatkX" title="Portrait" style="width: 100%; max-width: 600px; display: block; margin: auto;">
 
 ---
 
