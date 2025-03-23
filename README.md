@@ -1,4 +1,5 @@
 ![👨‍💻 MyPotrait](https://github.com/user-attachments/assets/57386239-ecde-4577-b548-cccc0cd6f731)
+<img src="https://drive.google.com/uc?export=view&id=" alt="My Image" title="Portrait" style="width: 100%; max-width: 600px; display: block; margin: auto;">
 
 Hello World! Welcome to My professional portfolio repository!.
 This Overview is designed to showcase My skills, projects, and contributions in a clear and structured manner
@@ -133,6 +134,8 @@ I'm a passionate tech enthusiast who enjoys solving complex problems with a blen
 Outside of Coding, I love new Computers💻, Exploring new Places🗺️, Bug hunting🐞, Research👨‍💻, Gimming🏋️‍♀️, Studies📖, playing Chess♟️, and staying updated with the latest advancements in technology!
 
 ---
+## Resume
+<img src="https://drive.google.com/uc?export=view&id=1Fe19L2oRCG-5mAqy9fiY03Ek82b95LWW" alt="My Image" title="Portrait" style="width: 100%; max-width: 600px; display: block; margin: auto;">
 
 ## 📜 License
 
