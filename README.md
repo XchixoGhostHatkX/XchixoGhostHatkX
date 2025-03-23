@@ -136,7 +136,7 @@ Outside of Coding, I love new Computers💻, Exploring new Places🗺️, Bug hu
 
 ---
 ## Resume
-<img src="https://drive.google.com/uc?export=view&id=1Fe19L2oRCG-5mAqy9fiY03Ek82b95LWW" alt="My Image" title="Portrait" style="width: 100%; max-width: 600px; display: block; margin: auto;">
+<img src="https://drive.google.com/uc?export=view&id=1Hn89DtlMy63J1ZIFJ7ux0GrLdlt6E_vg" alt="My Image" title="Portrait" style="width: 100%; max-width: 600px; display: block; margin: auto;">
 
 ## 📜 License
 
