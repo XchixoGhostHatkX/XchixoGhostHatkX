@@ -125,13 +125,11 @@ For a full list of projects, visit My [GitHub Repositories](https://github.com/X
 - **Time Management:** Effective time management skills, with the ability to prioritize tasks and meet deadlines.
 
 ---
-
 ## 🗣️ Recommendations
 
-> "Irmiya is a highly skilled and dedicated professional. His expertise in cybersecurity and web development is exceptional. He consistently delivers high-quality work and is a valuable asset to any team." - **Mr. James Danjuma, Developer  @Crypt Income ** 
+> "Irmiya is a highly skilled and dedicated professional. His expertise in cybersecurity and web development is exceptional. He consistently delivers high-quality work and is a valuable asset to any team." - **John Doe, CTO at ExampleTech**
 
-
-> "I had the pleasure of working with Irmiya on a web development project. His technical skills and attention to detail were outstanding. He is a reliable and proactive team player." - **ThankGod Malgwi, Data Scientist ** 
+> "I had the pleasure of working with Irmiya on a web development project. His technical skills and attention to detail were outstanding. He is a reliable and proactive team player." - **Jane Smith, Project Manager at ABC Solutions**
 
 
 ## 📊 GitHub Stats
