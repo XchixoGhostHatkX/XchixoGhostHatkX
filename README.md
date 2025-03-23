@@ -2,9 +2,9 @@
 ---
 <img src="https://drive.google.com/uc?export=view&id=1HmUgukcyA1cQnidlPQ543Bq8xYqD_1VL" alt="My Image" title="Portrait" style="width: 100%; max-width: 600px; display: block; margin: auto;">
 
-**Hello World! Welcome to My professional portfolio repository!.
-This Overview is designed to showcase My skills, projects, and contributions in a clear and structured manner
-It provides all the necessary details for collaborators, recruiters, or anyone interested in My work.**
+###**Hello World! Welcome to My Professional Portfolio Repository!.
+This Overview is Designed to Showcase My Skills, Projects, and Contributions in a Clear and Structured Manner.
+It Provides all the Necessary details for Collaborators, Recruiters, or Anyone interested in My Work. Thank You!**
 ---
 ---
 
