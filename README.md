@@ -8,7 +8,9 @@ It provides all the necessary details for collaborators, recruiters, or anyone i
 
 # 👨‍💻 Irmiya Malgwi (XchixoGhostHatkX)
 
-![Header](https://via.placeholder.com/1200x300?text=Welcome+to+Irmiya+Malgwi's+GitHub+Profile)
+<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=XchixoGhostHatkX">
+
+---
 
 ## 🌟 About Me
 
