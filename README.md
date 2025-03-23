@@ -11,7 +11,7 @@ It provides all the necessary details for collaborators, recruiters, or anyone i
 
 # 👨‍💻 Irmiya Malgwi (XchixoGhostHatkX)
 
-<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=XchixoGhostHatkX&txt=Innovative%20Tech%20Expert" title="Banner" style="width: 100%; max-width: 600px; display: block; margin: auto;"></p>
+<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=XchixoGhostHatkX&txt=Innovative%20And%20Creative%20Tech%20Expert" title="Banner" style="width: 100%; max-width: 600px; display: block; margin: auto;"></p>
 
 ---
 
