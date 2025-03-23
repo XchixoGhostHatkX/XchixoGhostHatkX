@@ -53,6 +53,7 @@ While yet to complete My B.Sc. in Cyber Security, I have gained hands-on experie
     - Improved code efficiency and reliability in existing projects.
     
 ---
+
 ## 🏆 Achievements
 
 - **Pull Shark Award** 🦈
@@ -105,6 +106,32 @@ For a full list of projects, visit My [GitHub Repositories](https://github.com/X
 
 ---
 
+## ⚙️ Skills
+
+### Technical Skills:
+
+- **Web Development:** HTML5, CSS3, JavaScript, React.js, Node.js, Django, Flask
+- **Cybersecurity:** Penetration Testing, Vulnerability Assessment, Security Audits, Incident Response, Cryptography
+- **Programming:** Python, Bash, SQL
+- **Cloud Computing:** AWS, Azure, Docker, Kubernetes
+- **Data Analysis:** Machine Learning, Data Visualization, Statistical Analysis
+
+### Soft Skills:
+
+- **Problem Solving:** Proven ability to identify and resolve complex technical issues.
+- **Communication:** Excellent written and verbal communication skills, with the ability to explain technical concepts to non-technical audiences.
+- **Teamwork:** Collaborative team player with experience working in cross-functional teams.
+- **Adaptability:** Highly adaptable and able to quickly learn new technologies and methodologies.
+- **Time Management:** Effective time management skills, with the ability to prioritize tasks and meet deadlines.
+
+---
+
+## 🗣️ Recommendations
+
+> "Irmiya is a highly skilled and dedicated professional. His expertise in cybersecurity and web development is exceptional. He consistently delivers high-quality work and is a valuable asset to any team." - **Mr. James Danjuma, Developer  @Crypt Income **
+
+> "I had the pleasure of working with Irmiya on a web development project. His technical skills and attention to detail were outstanding. He is a reliable and proactive team player." - **ThankGod Malgwi, Data Scientist **
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XchixoGhostHatkX&show_icons=true&theme=radical)
@@ -151,11 +178,11 @@ I'm a passionate tech enthusiast who enjoys solving complex problems with a blen
 Outside of Coding, I love new Computers💻, Exploring new Places🗺️, Bug hunting🐞, Research👨‍💻, Gimming🏋️‍♀️, Studies📖, playing Chess♟️, and staying updated with the latest advancements in technology!
 
 ---
+
 ## 📄 Resume
 <img src="https://drive.google.com/uc?export=view&id=1Hn89DtlMy63J1ZIFJ7ux0GrLdlt6E_vg" alt="My Image" title="Portrait" style="width: 100%; max-width: 600px; display: block; margin: auto;">
 
 ---
-
 
 ## 📜 License
 
@@ -163,4 +190,5 @@ This repository is licensed under the MIT License. See the LICENSE.md file for d
 
 ---
 
-Thank you for visiting My profile! 🚀 Let's connect, collaborate, and build the future together!
+Thank you for visiting My profile! 🚀 
+Please Let's connect, collaborate, and build the future together!
