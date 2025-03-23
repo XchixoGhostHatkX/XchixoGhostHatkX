@@ -1,5 +1,6 @@
 
 ---
+
 <p align="center"><img src="https://drive.google.com/uc?export=view&id=1HmUgukcyA1cQnidlPQ543Bq8xYqD_1VL" alt="My Image" title="Portrait" style="width: 100%; max-width: 600px; display: block; margin: auto;"></p>
 
 ---
@@ -29,9 +30,11 @@ Hello! I’m **Irmiya Malgwi**, also known as **XchixoGhostHatkX** (he/him). I a
 
 I am driven by a passion for innovation and a commitment to excellence in all My endeavors. My goal is to leverage technology to solve complex problems and create meaningful impact.
 
+---
+
 🎓 **Education**: B.Sc. Cyber Security (Deferred)
 🌍 **Identity**: Proudly African
-📍 **Location**: WizeTechx, Africa
+🚩 **Location**: WizeTechx, Africa
 
 ---
 
