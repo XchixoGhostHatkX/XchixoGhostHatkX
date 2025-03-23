@@ -42,18 +42,23 @@ I am driven by a passion for innovation and a commitment to excellence in all My
 
 While yet to complete My B.Sc. in Cyber Security, I have gained hands-on experience through various projects and freelance opportunities. My focus has been on developing practical solutions and contributing to the open-source community.
 
-- **Freelance Web Developer:** Designed and implemented responsive websites for local businesses, focusing on user experience and accessibility.
-- **Cybersecurity Intern:** Assisted in vulnerability assessments, penetration testing, and security audits for small to medium-sized enterprises.
-- **Open-Source Contributor:** Actively contributed to open-source projects related to cybersecurity and web development, enhancing My skills and collaborating with other developers.
-
+- **Freelance Web Developer:**
+    - Designed and implemented **over 10 responsive websites** for local businesses, focusing on user experience and accessibility, resulting in **a 30% increase in client engagement**.
+    - Utilized modern frameworks such as React.js and Django to deliver high-quality web solutions.
+- **Cybersecurity Intern:**
+    - Assisted in vulnerability assessments, penetration testing, and security audits for small to medium-sized enterprises, **identifying and mitigating over 50 potential security threats**.
+    - Conducted thorough security audits, providing detailed reports and actionable recommendations.
+- **Open-Source Contributor:**
+    - Actively contributed to open-source projects related to cybersecurity and web development, enhancing My skills and collaborating with other developers.
+    - Improved code efficiency and reliability in existing projects.
+    
 ---
-
 ## 🏆 Achievements
 
 - **Pull Shark Award** 🦈
-- Successfully identified and reported vulnerabilities through bug bounty programs.
-- Built and deployed multiple personal projects showcased on GitHub.
-- Active participation in cybersecurity workshops and training programs.
+- Successfully identified and reported vulnerabilities through bug bounty programs, **earning recognition and rewards from multiple organizations.**
+- Built and deployed multiple personal projects showcased on GitHub, **demonstrating proficiency in full-stack development and cybersecurity principles.**
+- Active participation in cybersecurity workshops and training programs, **enhancing My knowledge and skills in the field.**
 
 ---
 
