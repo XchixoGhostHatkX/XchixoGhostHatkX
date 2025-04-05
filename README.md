@@ -167,7 +167,7 @@ If you have an exciting project in mind, I would love to hear from you!
 
 🌐 LinkedIn: [Irmiya Malgwi](https://www.linkedin.com/in/irmiya-malgwi-a34a57148)
 📧 Email: [Email DM](mailto:godofnoor@protonmail.com)
-🌍 Portfolio: [GitHub Repo](https://github.com/XchixoGhostHatkX)
+🌍 Portfolio: [My Website ](https://XchixoGhostHatkX.github.io)
 📱 WhatsApp: [Request Here](mailto:godofnoor@protonmail.com)
 
 ---
