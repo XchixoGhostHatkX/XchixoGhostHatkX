@@ -12,7 +12,7 @@ It Provides all the Necessary details for Collaborators, Recruiters, or Anyone i
 
 ---
 
-# 👨‍💻 Irmiya Malgwi (XchixoGhostHatkX)
+# 👨‍💻 Mr. JahRemiah Malgwi 
 
 <p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=XchixoGhostHatkX&txt=Innovative%20And%20Creative%20Tech%20Expert" title="Banner" style="width: 100%; max-width: 600px; display: block; margin: auto;"></p>
 
@@ -20,7 +20,7 @@ It Provides all the Necessary details for Collaborators, Recruiters, or Anyone i
 
 ## 🌟 About Me
 
-Hello! I’m **Irmiya Malgwi**, also known as **XchixoGhostHatkX** (he/him). I am a highly versatile and passionate technology professional with a diverse skillset encompassing:
+Hello! I’m **Mr. JahRemiah Malgwi**, also known as **XchixoGhostHatkX** . I am a highly versatile and passionate technology professional with a diverse skillset encompassing:
 
 - **Full-Stack Web & Mobile Development:** Crafting responsive, user-friendly applications with modern frameworks.
 - **Cybersecurity & Ethical Hacking:** Securing digital assets, performing penetration testing, and identifying vulnerabilities.
