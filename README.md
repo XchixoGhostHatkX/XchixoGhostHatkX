@@ -2,7 +2,7 @@
 
 ---
 
-<p align="center"><img src="https://drive.google.com/file/d/18-JrevMltiB9ywPHY6C3zz_G2REn2cQ9/view?usp=sharing" alt="MyBnner" title="Portrait" style="width: 100%; max-width: 600px; display: block; margin: auto;"></p>
+<p align="center"><img src="https://drive.google.com/file/d/18-JrevMltiB9ywPHY6C3zz_G2REn2cQ9/view?usp=drivesdk" alt="MyBnner" title="Portrait" style="width: 100%; max-width: 600px; display: block; margin: auto;"></p>
 
 ---
 
